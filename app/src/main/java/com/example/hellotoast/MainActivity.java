@@ -15,4 +15,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void showToast(View view) {
     }
+
+    public void countUp(View view) {
+    }
 }
