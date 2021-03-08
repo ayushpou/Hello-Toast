@@ -1,2 +1,6 @@
+![screenshot](task1.png)
+![screenshot](task2.png)
+![screenshot](task3.png)
+![screenshot](task4.png)
 ![screenshot](task6.png)
 ![gif](task6.1.gif)
